@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+runs/
+encargos/
+referencias/
+plantillas/
+.claude/
+.promptfoo/
+tests/reserved.json
+*.log
+.DS_Store

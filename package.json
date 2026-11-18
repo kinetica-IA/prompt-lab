@@ -1,0 +1,13 @@
+{
+  "name": "prompt-lab-piloto",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Optimizador en Claude Code; comprobaciones locales de respuestas guardadas",
+  "scripts": {
+    "check": "node --test tests/local.test.cjs",
+    "smoke": "node scripts/smoke.cjs"
+  },
+  "devDependencies": {
+    "promptfoo": "0.124.1"
+  }
+}

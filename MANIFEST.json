@@ -1,0 +1,114 @@
+{
+  "auditor": "v0.4",
+  "infrastructure": "0.2.0",
+  "date": "2026-11-18",
+  "reserved_included": false,
+  "private_inputs_included": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 143,
+      "sha256": "8b0da564bcc0130cca2b0009734e6a26afeec45ac9c07388bd38ecef82b8cbc3"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 723,
+      "sha256": "47ad3683a4bd898d884e861d77a1129068ebc722add55036f0f7f3932768426f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4228,
+      "sha256": "f4c689a7c36e85cf7695bc92dc5f1166cf708aa7e60f414173a3e3df5c87a2a2"
+    },
+    {
+      "path": "docs/CONNECTORS.md",
+      "bytes": 930,
+      "sha256": "e9ff53acbeaa658f767d59f3666b2b2ce638518c1d0b88e1cc2ab9ea1c3c8d9e"
+    },
+    {
+      "path": "docs/ENCARGO.md",
+      "bytes": 533,
+      "sha256": "97c51a1f07085d1ac208802ad37202759316e3146796d1810363a1574bbf529b"
+    },
+    {
+      "path": "docs/ENTREGA.md",
+      "bytes": 2640,
+      "sha256": "9407e539b26cfe66e0e59fe02dd17287749bf7bfff7ec5a68499f9a56b807116"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 358974,
+      "sha256": "ae4efa54b52d82da164dd830b504a7d6684ec8cf1feb678491103772ed0826de"
+    },
+    {
+      "path": "package.json",
+      "bytes": 332,
+      "sha256": "4220b5883ad1c44b2f4221ad77687c315cc7febe0192f896859e1bd9e7256490"
+    },
+    {
+      "path": "prompts/baseline.md",
+      "bytes": 334,
+      "sha256": "f9204d0cc12bc0ba5b4a2947fc7a01db1aedd3a4eb656143e1b0bf255697db10"
+    },
+    {
+      "path": "prompts/contract.md",
+      "bytes": 1584,
+      "sha256": "412e940554062cc41db30f9320a1629e2ab22f4451507798efbb196e3fffecd7"
+    },
+    {
+      "path": "prompts/optimizer.md",
+      "bytes": 2083,
+      "sha256": "8c554f191e6d1ee3004ff1281dad9686ae2b127b2a3496ccec1fb0fb0e307340"
+    },
+    {
+      "path": "scripts/contract.cjs",
+      "bytes": 1687,
+      "sha256": "fd1a63523a4d986904f4b4a13e61365a493097d22cc43b362366b59fd85302ea"
+    },
+    {
+      "path": "scripts/pilot.py",
+      "bytes": 11847,
+      "sha256": "3c369789cf8e8e1fd69a4b9cf56717b3df7959e6152ce306e9b343b75829b197"
+    },
+    {
+      "path": "scripts/replay.cjs",
+      "bytes": 1192,
+      "sha256": "face2dd971a73505b8dc76cc5003382b99b3c8890906579150497f750e83cb30"
+    },
+    {
+      "path": "scripts/saved-provider.cjs",
+      "bytes": 348,
+      "sha256": "c9d5ed916236062e0e53ab1ed9f59653d0080afc13799fb9908c4ac56d983fde"
+    },
+    {
+      "path": "scripts/smoke.cjs",
+      "bytes": 505,
+      "sha256": "7e3898304b3ee76c75f7800db638f9f71ec61d19f070f46ee09e453e33237115"
+    },
+    {
+      "path": "tests/development.json",
+      "bytes": 5439,
+      "sha256": "c9be8bd89df176ff9d355f5a8f581c0201e4498293bba13882e3373cc46ab0a0"
+    },
+    {
+      "path": "tests/local.test.cjs",
+      "bytes": 2598,
+      "sha256": "a2753cbf57b472c1c199cdba6139f060594901ee697ba31c4204463c433fbb46"
+    },
+    {
+      "path": "tests/make_fixture.py",
+      "bytes": 707,
+      "sha256": "0a32a13c6863cba2c77f912ddf68e6b1e0d530641a9a47a29ddc5a291296935b"
+    },
+    {
+      "path": "tests/output.schema.json",
+      "bytes": 1290,
+      "sha256": "91dfc735fd261d64f298a3db6d1daac1509fb54abec9c499a8230d2ad0d6cce0"
+    },
+    {
+      "path": "tests/test_integrity.py",
+      "bytes": 3906,
+      "sha256": "c24ddcafda3c41241e9177627f429f661e797c7aa90be6a5d3880659fc63dc38"
+    }
+  ]
+}
